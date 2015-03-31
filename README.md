@@ -1,4 +1,4 @@
-# Open-TTD-Sweden
+# OpenTTD-Sweden
 
 What if you could play Sweden in OpenTTD based on real geography? :-) What if you could have a pre-loaded scenario with all trains in Sweden based on actual train routes and time tables? =)
 
